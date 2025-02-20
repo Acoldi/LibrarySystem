@@ -41,7 +41,3 @@ Welcome to **BookHaven**, an advanced online library store designed to simplify 
 - **Sales**: Book sales records, including transaction amounts and customer details.
 - **Authors**: Authors of books, with birth dates and other details.
 - **Genres**: Categories for organizing books based on their genres.
-
-
-## End of README
-This README.md provides a structured overview of your project, including authentication details, which are key for any developer working with BookHaven repository. Adjust the links and any specific configurations as needed!
